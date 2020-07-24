@@ -11,7 +11,9 @@ The goal for the machine learning is to use classication to determine what is t
 ## Code Included
 
 ```preprocess.py``` : Data cleansing code
+
 ```program.py``` : Model building code
+
 ```analytics.py``` : Performance and metrics code
 
 ## Final Report
